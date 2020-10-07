@@ -1,0 +1,20 @@
+{
+  "results":[
+              {
+                  "suggestion": "suggestion-1"
+              },
+              {
+                  "suggestion": "suggestion-2"
+              },
+              {
+                  "suggestion": "suggestion-3"
+              },
+              {
+                  "suggestion": "suggestion-4"
+              },
+              {
+                  "suggestion": "suggestion-5"
+              }
+          ]
+  }
+
