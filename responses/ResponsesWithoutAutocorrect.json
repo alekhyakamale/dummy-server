@@ -42,31 +42,35 @@
       "facetKey1": [
         {
           "value": "Wired",
-          "count": 20
+          "count": 20,
+          "checked": true
         },
         {
           "value": "Orbit",
-          "count": 3
+          "count": 3,
+          "checked": true
         },
         {
           "value": "Software",
-          "count": 35
+          "count": 35,
+          "checked": false
         }
       ],
       "facetKey2": [
         {
           "value": "Space",
-          "count": 43
+          "count": 43,
+          "checked": true
         },
         {
-          "id": "facetKey2item1",
           "value": "AI",
-          "count": 33
+          "count": 33,
+          "checked": false
         },
         {
-          "id": "6",
           "value": "Drone",
-          "count": 25
+          "count": 25,
+          "checked": true
         }
       ]
     }

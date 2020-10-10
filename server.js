@@ -38,7 +38,7 @@ app.post('/api/responses', function(req, res) {
         const response = JSON.parse(fs.readFileSync('responses/ResponsesWithFilter.json'));
         res.send(response);
     }else{
-        if(req.body.query === "computer")
+        if(req.body.searchquery === "computer")
     {
         const response = JSON.parse(fs.readFileSync('responses/ResponsesWithoutAutocorrect.json'));
         res.send(response);
